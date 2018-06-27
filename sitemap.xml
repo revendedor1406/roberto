@@ -3,9 +3,6 @@
 		<loc>http://roberto.v.cadastro.rio.xn--br/s/1406/sitemap-.xml/index.html</loc>
 	</url>
 	<url>
-		<loc>http://roberto.v.cadastro.rio.xn--br/s/1406/sitemap-.xml/revendedor1406-1.html</loc>
-	</url>
-	<url>
 		<loc>http://roberto.v.cadastro.rio.xn--br/s/1406/sitemap-.xml/page2.html</loc>
 	</url>
 	<url>
@@ -13,5 +10,8 @@
 	</url>
 	<url>
 		<loc>http://roberto.v.cadastro.rio.xn--br/s/1406/sitemap-.xml/page4.html</loc>
+	</url>
+	<url>
+		<loc>http://roberto.v.cadastro.rio.xn--br/s/1406/sitemap-.xml/roberto.html</loc>
 	</url>
 </urlset>
